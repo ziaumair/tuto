@@ -5,3 +5,4 @@ console.log("project");
 let i=2;
 let y=3;
 //force added
+let w=4;
