@@ -3,3 +3,4 @@ console.log();
 console.log("project");
 //added coment
 let i=2;
+let war=4;
